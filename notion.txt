@@ -1,0 +1,43 @@
+INTRODUCTION
+Notion is an all-in-one productivity tool that helps to write notes, manage tasks, plan 
+projects and collobrate, all in one place. Moreover, apart from this task, it will help you to create page and 
+also host that page for free. Notion replaces Google docs, Excel, Trello and notes. 
+
+USUAGE
+It can be used by individuals and teams.
+
+  1. Individuals: For personal knowledge management, habit tracking, or study organization.
+  2. Teams: For internal documentation, Project management and team dashboards.
+
+VARIOUS FEATURES OF NOTION:
+  1. Flexible
+  2. Project management
+  3. Collaboration
+  4. live pages
+  5. Share and Access control
+
+LEARNED : NOTIONS CONCEPTS
+Today, I learned the following concepts related to Notion:
+
+  1. To create an empty page and under this I learn to implement various features:
+       * To bold the content
+       * To highlight the content
+       * To link various pages together
+       * To add tables, quotes, To Do list, images, comments etc.
+       * To add icons and cover page
+       * To divide the page
+  2. To modify/edit the existing template.
+  3. To create the databases.
+  4. To publish and unpublish the page.
+  5. To share the page and apply access controls.
+  6. To invite collaborators.
+  7. To use Notion AI  
+
+LINK: 
+The link of the live page which is created using notion is as follows:
+
+https://cooperative-request-eae.notion.site/MERN-STACK-2e8ed8290d2380d48e37f2fa6955cadb?pvs=74
+ 
+
+
+
